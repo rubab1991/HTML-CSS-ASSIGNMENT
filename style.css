@@ -1,0 +1,15 @@
+
+ * {
+    justify-content: center; /* Center horizontally */
+   text-align: justify;
+    font-family: Arial, sans-serif;
+
+}
+.centered-content {
+   
+    width: 60%; /* Adjust as needed to control text wrapping */
+    line-height: 1.5; /* Adjust spacing between lines */
+}
+#img-1 {
+        height: 350px;
+    }
